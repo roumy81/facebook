@@ -1,0 +1,73 @@
+
+*{
+    margin: 0;
+}
+
+
+header{
+    background-color: rgba(37, 36, 107, 0.836);
+    color: white;
+}
+.mere{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.fille2{
+    display: flex;
+
+    margin-top: 1%;
+    flex-wrap: wrap;
+}
+.log{
+    margin-top: 20px;
+    
+}
+.btn{
+    background-color: rgb(42, 42, 156);
+     color: white;
+     margin-left: 5px;
+}
+.conteneur{
+    
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    
+}
+
+.img{
+    width: 8%;
+    height: 50px;
+    margin-right: 8px;
+}
+
+.see{
+    display: flex;
+}
+
+
+.up{
+    width: 40%;
+    height: 6%;
+    background-color: rgb(54, 134, 61);
+   color: white;
+   border-radius: 5px;
+}
+
+.iput{
+    width: 75%;
+    height: 20px;
+}
+.name{
+    height: 20px;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: hsla(207, 18%, 88%, 0.945);
+}
+.f1{
+    margin-right: 9px;
+   }
